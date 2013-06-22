@@ -9,7 +9,7 @@
 </ul>
 
 <p> In this example I created a TableLayout with some details for check in and check out rows i added a image button with an event </p>
-	<img src="./screenshots/pic1.jpg"> <br>
+	![ScreenShot](https://github.com/eveerababu-nyros/DatePicker-in-Ruboto-with-ActionBar/blob/master/screenshots/pic1.jpg) <br>
 <p> when we click on the button the DatePickerDialog will open </p>
 	<img src ="./screenshots/pic2.jpg"> </br>
 
