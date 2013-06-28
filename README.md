@@ -9,6 +9,8 @@
 </ul>
 
 <p> In this example I created a TableLayout with some details for check in and check out rows i added a image button with an event </p>
+<p> Starting Screen is looks like this </p>
+<img src="https://github.com/eveerababu-nyros/DatePicker-in-Ruboto-with-ActionBar/raw/master/screenshots/pic1.jpg" />
 	 
 <p> when we click on the button the DatePickerDialog will open </p>
 
