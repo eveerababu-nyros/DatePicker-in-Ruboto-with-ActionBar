@@ -14,8 +14,12 @@
 	 
 <p> when we click on the button the DatePickerDialog will open </p>
 
+<img src="https://github.com/eveerababu-nyros/DatePicker-in-Ruboto-with-ActionBar/raw/master/screenshots/pic2.jpg" />
+
 
 <p> After we select the date the selected date will be displyed in textview </p>
+
+<img src="https://github.com/eveerababu-nyros/DatePicker-in-Ruboto-with-ActionBar/raw/master/screenshots/pic3.jpg" />
 
 
 <h3> Use it </h3>
